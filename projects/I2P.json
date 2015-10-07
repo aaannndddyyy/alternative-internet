@@ -11,6 +11,9 @@
             "file_sharing", 
             "tunnels", 
             "bittorrent", 
+            "kademlia"
+            "iMule"
+            "e-mail"
             "crypto", 
             "web", 
             "anonymity", 
@@ -28,7 +31,7 @@
         "total_code_lines": 218280, 
         "total_contributor_count": 51, 
         "twelve_month_contributor_count": 8, 
-        "updated_at": "2014-09-16T22:56:49Z", 
+        "updated_at": "2015-09-12T00:00:00Z", 
         "analysis": "19848554", 
         "min_month": "2004-04-01T00:00:00Z", 
         "factoids": [
@@ -42,6 +45,6 @@
         "id": "10228", 
         "name": "I2P"
     }, 
-    "description": "[I2P](http://www.i2p2.de/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.", 
+    "description": "[I2P](http://geti2p.net/) is an anonymizing network, offering a simple layer that identity-sensitive applications can use to securely communicate. All data is wrapped with several layers of encryption, and the network is both distributed and dynamic, with no trusted parties.", 
     "name": "I2P"
 }
